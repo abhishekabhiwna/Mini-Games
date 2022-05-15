@@ -1,8 +1,8 @@
 # TOP 3 Mini Games
 
 Build a Mini Game App with 3 games in Python.
--Rock,Paper and Scissors
--Tic Tac Toe
--Guess the number
+RPS.py =Rock,Paper and Scissors
+ttt.py =Tic Tac Toe
+GTN.py =Guess the number
 
 the main.py file contains the fuctions of all other files. It is the main file of the program , run this file to play the game.
